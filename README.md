@@ -9,8 +9,6 @@ This is a PHP wrapper class example for the ZeroBounce API.
 
 The validation methods return objects on which you call get methods which return the relevant information. Please see the code for all getters and below for a sample:
 
-ZeroBounceApi zeroBounceApi = new ZeroBounceApi("YOUR_API_KEY");
-
 ```php
 <?php
 require_once("zerobounce.php");
