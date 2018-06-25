@@ -29,4 +29,4 @@ print_r($zba->validatewithip('email@address.com', 'IP'));
 
 #### Additional User Contributed Wrappers in PHP
 
-NoMoreHours: https://github.com/CoupleCo/knowmore-zerobounce
+NoMoreHours: (Laravel) https://github.com/CoupleCo/knowmore-zerobounce
