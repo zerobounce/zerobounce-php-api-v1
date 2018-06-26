@@ -5,6 +5,8 @@ Zerobounce PHP API wrapper
 
 This is a PHP wrapper class example for the ZeroBounce API.
 
+* TLS V1.2 is required -  This is available from PHP 5.5.19 and up.
+
 #### Example usage:
 
 The validation methods return objects on which you call get methods which return the relevant information. Please see the code for all getters and below for a sample:
