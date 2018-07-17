@@ -31,6 +31,6 @@ echo $validation['status'];
 print_r($zba->validatewithip('email@address.com', 'IP'));
 ```
 
-#### Additional User Contributed Wrappers in PHP
+#### Additional User Contributed Wrappers in PHP v1
 
 NoMoreHours: (Laravel) https://github.com/CoupleCo/knowmore-zerobounce
