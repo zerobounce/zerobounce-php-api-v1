@@ -1,9 +1,11 @@
-Zerobounce PHP API wrapper
+Zerobounce PHP API wrapper v1
 =====================
 
-[ZeroBounce](https://www.zerobounce.net) PHP API
+Please use version 2: https://github.com/zerobounce/zerobounce-php-api-v2
 
-This is a PHP wrapper class example for the ZeroBounce API.
+[ZeroBounce](https://www.zerobounce.net) PHP API v1
+
+This is a PHP wrapper class example for the ZeroBounce API v1.
 
 * TLS V1.2 is required -  This is available from PHP 5.5.19 and up.
 
