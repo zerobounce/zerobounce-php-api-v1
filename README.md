@@ -30,7 +30,3 @@ echo $validation['status'];
 //instantiate a validation object following a call to /validatewithip and print the whole object
 print_r($zba->validatewithip('email@address.com', 'IP'));
 ```
-
-#### Additional User Contributed Wrappers in PHP v1
-
-NoMoreHours: (Laravel) https://github.com/CoupleCo/knowmore-zerobounce
